@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- Projects -->
 ## Projects
 - [GitHub Finder](https://github-finder-ok.vercel.app)
-- House Marketplace (in maintenance)
+- [House Marketplace](https://house-marketplace-sable.vercel.app)
 - Ecommerce for a Clothing Store (in development)
 
 <!-- # Technologies That I Know👨🏻‍💻 -->
